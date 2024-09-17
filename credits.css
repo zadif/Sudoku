@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+}
+body {
+  background: linear-gradient(60deg, #fb8500, #ffb703);
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+.credits {
+  width: 40rem;
+  font-size: 3rem;
+
+  font-family: "Pathway Gothic One", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.heading {
+  font-size: 4rem;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+}
+.btn {
+  margin-bottom: 5rem;
+}
